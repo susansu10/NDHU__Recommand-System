@@ -7,8 +7,10 @@ Practicing with this repo: https://github.com/ageron/handson-ml2
 
 ## Branch Notice
 Here you can see two branches in this repo
-- <main> for put Final Project code in
-- <Ex_P_1219> is the practice code we learn from the repo we mention before
+- <main> 
+for put Final Project code in
+- <Ex_P_1219> 
+is the practice code we learn from the repo we mention before
 
 ## Final Project - already upated !
 題目：
